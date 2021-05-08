@@ -33,7 +33,7 @@
     "express": "^4.15.3",
     "express-session": "^1.15.3",
     "fs": "0.0.1-security",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "method-override": "^2.3.9",
     "mongoose": "^4.10.0",
     "morgan": "^1.8.1",
